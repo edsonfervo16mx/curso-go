@@ -13,3 +13,5 @@ func pantalon(caracteristicas ... string){
 	}
 	
 }
+
+
