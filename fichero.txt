@@ -1,0 +1,7 @@
+lenguajes de programacion:
+go
+php
+javascript
+c
+javaangular
+laravel

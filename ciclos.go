@@ -17,4 +17,18 @@ func main()  {
 		}
 	}
 
+
+	//
+
+	peliculas := []string{"Harry Potter 0","Harry Potter 1","Harry Potter 2","Harry Potter 3"}
+
+
+	for e := 0; e < len(peliculas); e++{
+		fmt.Println(peliculas[e])
+	}
+
+	for _, pelicula := range peliculas {
+		fmt.Println(pelicula)
+	}
+
 }
